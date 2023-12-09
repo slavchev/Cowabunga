@@ -10,7 +10,7 @@ license = "MIT OR Apache-2.0"
 clap = { version = "4.0.26", features = ["derive"] }
 
 [build-dependencies]
-winres = "0.1.12"
+# winres = "0.1.12"
 
 [package.metadata.winres]
 OriginalFilename = "cowabunga.exe"
